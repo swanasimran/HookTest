@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/swanasimran.singhthoughtworks.com/RiderProjects/HookTest/HookTest/HookTest.csproj": {}
+    "/Users/poorvi.patil/Projects/SpaceModernisation/HookTest/HookTest/HookTest.csproj": {}
   },
   "projects": {
-    "/Users/swanasimran.singhthoughtworks.com/RiderProjects/HookTest/HookTest/HookTest.csproj": {
+    "/Users/poorvi.patil/Projects/SpaceModernisation/HookTest/HookTest/HookTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/swanasimran.singhthoughtworks.com/RiderProjects/HookTest/HookTest/HookTest.csproj",
+        "projectUniqueName": "/Users/poorvi.patil/Projects/SpaceModernisation/HookTest/HookTest/HookTest.csproj",
         "projectName": "HookTest",
-        "projectPath": "/Users/swanasimran.singhthoughtworks.com/RiderProjects/HookTest/HookTest/HookTest.csproj",
-        "packagesPath": "/Users/swanasimran.singhthoughtworks.com/.nuget/packages/",
-        "outputPath": "/Users/swanasimran.singhthoughtworks.com/RiderProjects/HookTest/HookTest/obj/",
+        "projectPath": "/Users/poorvi.patil/Projects/SpaceModernisation/HookTest/HookTest/HookTest.csproj",
+        "packagesPath": "/Users/poorvi.patil/.nuget/packages/",
+        "outputPath": "/Users/poorvi.patil/Projects/SpaceModernisation/HookTest/HookTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/swanasimran.singhthoughtworks.com/.nuget/NuGet/NuGet.Config"
+          "/Users/poorvi.patil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/poorvi.patil/.dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
